@@ -9,6 +9,11 @@ h1
     {border: 10px solid yellow;
      border-radius: 5%}
 
+.par-3
+    {font-size: 24pt;
+     font-style: italic;
+     text-shadow: 2px 2px 1px #00FF00}
+
 div
     {font-family: Arial;
      font-weight: 900}
